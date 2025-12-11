@@ -3,3 +3,4 @@ mysqlclient
 gunicorn
 whitenoise
 djangorestframework
+django-cors-headers
